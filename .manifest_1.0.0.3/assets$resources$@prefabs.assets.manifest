@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 600321326
+CRC: 4122908955
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff09258a29171650c9060edb89aea436
+    Hash: 964894376fccda7a5209e6c76eec0d69
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab8bd68a016cd2dea070caa4dc551c3e
@@ -95,8 +95,8 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/@prefabs/AvatarView.prefab
+- Assets/Resources/@prefabs/Avatar-3.prefab
 - Assets/Resources/@prefabs/Avatar-1.prefab
-- Assets/Resources/@prefabs/Avatar-2.prefab
 - Assets/Resources/@prefabs/RpgMainPanel.prefab
 - Assets/Resources/@prefabs/AvatarSelectPanel.prefab
 - Assets/Resources/@prefabs/AvatarInfoButton.prefab
